@@ -1,0 +1,19 @@
+# This repository's mark: how it fits the Open Commons Observatory's picture.
+schema = 1
+
+[project]
+id = "rhizome-oco/rhizome"
+name = "Rhizome: stop managing software, start growing it"
+title = "Rhizome"
+kind = "research"
+parent = "open-commons-observatory"
+
+[exports]
+concepts = "data/concepts.json"
+decisions = "data/decisions.json"
+backlog = "data/backlog.json"
+milestones = "data/milestones.json"
+session_log = "data/session_log.json"
+activity = "oco/gathered/activity.json@oco-data"
+releases = "oco/gathered/releases.json@oco-data"
+ci = "oco/gathered/ci.json@oco-data"

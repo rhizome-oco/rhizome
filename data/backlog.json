@@ -1,0 +1,19 @@
+{"id":"day-one","title":"The first user ahead on day one","status":"open","note":"The tool that helps one person, alone, at once - the only bar that matters for adoption.","opened":"2026-11-10"}
+{"id":"hy-0","title":"Phase 0: a reproducible environment","status":"open","note":"A pinned toolchain; empty crate stubs build.","opened":"2026-11-10"}
+{"id":"hy-1","title":"Phase 1: load a workspace and list what is in it","status":"open","note":"The extraction pipeline wires together, on a tiny fixture kept for ever.","opened":"2026-11-10"}
+{"id":"hy-2","title":"Phase 2: real connections, not text","status":"open","note":"References resolved semantically into an adjacency list.","opened":"2026-11-10"}
+{"id":"hy-3","title":"Phase 3: identity from structure","status":"open","note":"Four checks: determinism; a renamed local changes nothing; a renamed item keeps its hash; one changed line cascades up and nowhere else.","opened":"2026-11-10"}
+{"id":"hy-4","title":"Phase 4: one shared store, a warm daemon","status":"open","note":"Four tables: hash to form and references, hash to source span, name to hash, the reverse index.","opened":"2026-11-10"}
+{"id":"hy-5","title":"Phase 5: graft - the round trip","status":"open","note":"A closure walked, emitted verbatim, built and tested: identity survived the trip and the output runs.","opened":"2026-11-10"}
+{"id":"hy-6","title":"Phase 6: sync by difference","status":"open","note":"Two stores compared; only what differs moves.","opened":"2026-11-10"}
+{"id":"hy-7","title":"Phase 7: graft something real, and write down what breaks","status":"open","note":"One function out of a small real crate; the deliverable is the honest list of gaps.","opened":"2026-11-10"}
+{"id":"live-swap","title":"Changing things while they run","status":"open","note":"The index of where things live; changes classified beforehand.","opened":"2026-11-10"}
+{"id":"m2-analysis","title":"The reach-against-change engine","status":"open","note":"Conflicts resolved by computing what a consumer reaches against what changed; the same engine for impact and for live-swap classes.","opened":"2026-11-10"}
+{"id":"m2-conjure","title":"Conjuring a whole project","status":"open","note":"Many entry points; the full rz verbs; a real transport in place of local sync.","opened":"2026-11-10"}
+{"id":"m2-layers","title":"Layers and predicates","status":"open","note":"Additive pieces with conditions.","opened":"2026-11-10"}
+{"id":"rhizoid-home","title":"Rhizoid's repositories under this organization","status":"open","note":"Offered by the author; a transfer changes their addresses (its design log's site is tied to its organization's name), so it is to be done deliberately. The Rhizome lens gathers Rhizoid where it is meanwhile.","opened":"2026-11-10"}
+{"id":"runtime","title":"The warm base and confinement","status":"open","note":"The genome process; a shoot's world derived from its closure.","opened":"2026-11-10"}
+{"id":"rz-manifesto","title":"The manifesto","status":"done","note":"Stop managing software. Start growing it. - the whole idea, for a reader who does not write software (MANIFESTO.md).","opened":"2026-11-10"}
+{"id":"rz-roadmap","title":"Hypha's roadmap","status":"done","note":"The first milestone in eight phases, with its decisions and what it leaves out (ROADMAP.md).","opened":"2026-11-10"}
+{"id":"self-hosting","title":"Hypha grown from its own graph","status":"open","note":"The fixpoint: built from the graph, it re-emits itself to the same hash.","opened":"2026-11-10"}
+{"id":"views","title":"Views: everything visible, nothing present","status":"open","note":"The filesystem view; the editor that navigates relationships; values beside the code.","opened":"2026-11-10"}
